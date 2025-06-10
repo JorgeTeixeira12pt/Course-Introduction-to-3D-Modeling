@@ -1,7 +1,6 @@
 # Introduction to 3D Modeling
 
-![Blender Logo](https://en.wikipedia.org/wiki/Blender_(software)#/media/File:Logo_Blender.svg)
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png
+![alt text](https://github.com/[JorgeTeixeira12pt]/[Course-Introduction-to-3D-Modeling]/blob/[bmain]/blender_logo.png?raw=true)
 
 This course provides students with a basic understanding of the fundamental principles of 3D modeling, from basic object modeling through texturing, lighting, and scene rendering. By the end of this course, you will be equipped with the knowledge and skills to create, texture, light, and render your own 3D scenes.
 
