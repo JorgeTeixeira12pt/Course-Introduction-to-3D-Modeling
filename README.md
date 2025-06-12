@@ -1,6 +1,7 @@
 # Introduction to 3D Modeling
 
-![alt text](https://github.com/[JorgeTeixeira12pt]/[Course-Introduction-to-3D-Modeling]/blob/[bmain]/blender_logo.png?raw=true)
+![blender logo](https://github.com/JorgeTeixeira12pt/Course-Introduction-to-3D-Modeling/blob/main/blender_logo.jpg)
+
 
 This course provides students with a basic understanding of the fundamental principles of 3D modeling, from basic object modeling through texturing, lighting, and scene rendering. By the end of this course, you will be equipped with the knowledge and skills to create, texture, light, and render your own 3D scenes.
 
